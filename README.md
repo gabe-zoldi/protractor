@@ -18,5 +18,6 @@
 (Visual Studio Code download -> https://code.visualstudio.com)
 8. create and cd into project dir
 9. npm init
-10. vim package.json    # add protractor/jasmine dependencies
-11. npm install
+10. vim package.json    # to add protractor/jasmine as dependencies
+11. npm install         # to add local
+12. protractor conf.js  # to run test
