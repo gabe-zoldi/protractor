@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "azure pipeline integration",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.4.3",
+    "jasmine": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alioresonance/protractor.git"
+  },
+  "author": "gabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alioresonance/protractor/issues"
+  },
+  "homepage": "https://github.com/alioresonance/protractor#readme"
+}
