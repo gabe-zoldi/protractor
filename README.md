@@ -1,4 +1,4 @@
-# protractor
+# Protractor
 
 ## How to install packages
 1. Install Java (download -> https://www.java.com/en/download)
