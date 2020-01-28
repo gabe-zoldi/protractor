@@ -18,6 +18,6 @@ How to write project/script
 (Eclipse            download -> https://www.eclipse.org/downloads)
 (IntelliJ Community download -> https://www.jetbrains.com/idea/download)
 (Visual Studio Code download -> https://code.visualstudio.com)
-8. 
-9.  
+8. create and cd into project dir
+9. npm init
 10. 
