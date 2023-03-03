@@ -4,7 +4,7 @@
   "description": "azure pipeline integration",
   "main": "index.js",
   "dependencies": {
-    "protractor": "^5.4.3",
+    "protractor": "^5.4.4",
     "jasmine": "^3.5.0"
   },
   "scripts": {
